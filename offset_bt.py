@@ -1,12 +1,6 @@
 #!/usr/bin/python
 #coding:utf-8
 
-
-'''
-zoom : sub_1017117c4断下后 frp即可出来temp_8的结果
-
-'''
-
 import lldb
 import commands
 import optparse
